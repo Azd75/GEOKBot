@@ -1,5 +1,5 @@
 HTTP API:
-8800269112:AAHN0lcoC6f5I0VguSKNTT0D_t0o1N5sBPM# GEOKBot# GEOKBot 🚀
+8800269112:AAHN0lcoC6f5I0VguSKNTT0D_t0o1N5s BPM# GEOKBot# GEOKBot 🚀
 
 Live Telegram bot for real-time prices of **BTC, ETH, SOL, AVAX**.
 
