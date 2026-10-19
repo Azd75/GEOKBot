@@ -1,4 +1,5 @@
-# GEOKBot# GEOKBot 🚀
+HTTP API:
+8800269112:AAHN0lcoC6f5I0VguSKNTT0D_t0o1N5sBPM# GEOKBot# GEOKBot 🚀
 
 Live Telegram bot for real-time prices of **BTC, ETH, SOL, AVAX**.
 
@@ -14,7 +15,7 @@ Live Telegram bot for real-time prices of **BTC, ETH, SOL, AVAX**.
 - Send `/newbot` and get your token
 
 ### 2. Local testing
-```bash
+```bash 
 git clone https://github.com/Azd75/GEOKBot.git
 cd GEOKBot
 pip install -r requirements.txt
