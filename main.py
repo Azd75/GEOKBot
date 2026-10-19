@@ -92,7 +92,8 @@ async def avax(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await price_single(update, context, "avax")
 
 def main():
-    token = os.getenv("TELEGRAM_BOT_TOKEN")
+    token = os.getenv(
+8800269112:AAHN0lcoC6f5I0VguSKNTT0D_t0o1N5sBPM")
     if not token:
         raise ValueError("TELEGRAM_BOT_TOKEN not found in environment variables")
 
